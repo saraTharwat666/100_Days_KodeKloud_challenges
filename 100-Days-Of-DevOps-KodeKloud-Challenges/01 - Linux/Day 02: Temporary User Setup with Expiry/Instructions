@@ -1,0 +1,2 @@
+Create a user named *yousuf* on *App Server 2* in Stratos Datacenter.
+Set the expiry date to **2024-04-15**, ensuring the user is created in *lowercase* as per standard protocol.
