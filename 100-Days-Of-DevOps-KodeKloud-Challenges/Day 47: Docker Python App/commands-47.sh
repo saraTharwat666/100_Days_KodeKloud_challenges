@@ -23,3 +23,7 @@ CMD ["python", "server.py"]
 cd /python_app
 docker build -t nautilus/python-app .
 
+# To run the container
+docker run -d --name pythonapp_nautilus -p 8096:8087 nautilus/python-app
+
+
